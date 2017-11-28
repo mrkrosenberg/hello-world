@@ -1,2 +1,2 @@
 # hello-world
-wdi6 - git exercises
+wdi6 - git practice
